@@ -1,4 +1,4 @@
-RSMBOT is new and best bot.
+RSMBOT is new and best bot in the Telegram.
 _________________________________________________________________________________
 for install  
 ```bash
