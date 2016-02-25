@@ -1,4 +1,4 @@
-NOD32-BOT is new and best bot.
+RSMBOT is new and best bot.
 _________________________________________________________________________________
 for install  
 ```bash
@@ -46,9 +46,21 @@ Dont forgot update {structures.c} befor lunch [its anti GIF file]
 
 HOW DO MAKE UPDATE THIS FILE?
 
-see this git https://github.com/BH-YAGHI/tg.git
+BOT MY : @cafe2_bot
 
 ---------------------------------------------------------------------------------
-channel : https://telegram.me/Nod32team
+channel : https://telegram.me/RSM_team
 
-developer : https://telegram.me/Behroozyaghi
+developer and sudo and admin  : https://telegram.me/sorblack
+
+special thanks and admin for help:
+  @BehroozYaghi = https://telegram.me/BehroozYaghi 
+  @Arsalan_sahel = https://telegram.me/Arsalan_sahel
+  @J2020J = https://telegram.me/J2020J
+  @king_kineh = https://telegram.me/king_kineh
+  @Blackwolf_admin = https://telegram.me/Blackwolf_admin
+  @sorblack_2 = https://telegram.me/sorblack_2
+  @mohammad20162015 = https://telegram.me/mohammad20162015
+  @Amirho3inf = https://telegram.me/Amirho3inf
+  @bay_majazi = https://telegram.me/bay_majazi
+
