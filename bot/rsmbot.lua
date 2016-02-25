@@ -249,10 +249,10 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://www.instagram.com/p/BB25RCus5ab/
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @RSM_team
+sudo and admin : @sorblack
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -499,7 +499,9 @@ NOD32 Commands list :
 
 !filterlist
 لیست کلمات فیلتر شده
-
+filter + (word)
+filter - (word)
+filterlist
 11-bot number & support ^
 
 !botnumber
