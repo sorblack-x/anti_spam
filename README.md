@@ -46,7 +46,7 @@ Dont forgot update {structures.c} befor lunch [its anti GIF file]
 
 HOW DO MAKE UPDATE THIS FILE?
 
-BOT MY : @cafe2_bot
+BOT MY : @cafe2_bot =  https://telegram.me/cafe2_bot
 
 ---------------------------------------------------------------------------------
 channel : https://telegram.me/RSM_team
