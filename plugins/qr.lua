@@ -77,3 +77,7 @@ return {
   },
   run = run
 }
+--Copyright; @sorblack
+--Persian Translate; @sorblack
+--ch : @RSM_team
+--کپی بدون ذکر منبع حرام است
