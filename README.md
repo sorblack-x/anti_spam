@@ -12,7 +12,7 @@ cd $HOME
 
 git clone https://github.com/BH-YAGHI/NOD32-BOT.git
 
-cd NOD32-BOT
+cd anti_spam
 
 chmod +x launch.sh
 
